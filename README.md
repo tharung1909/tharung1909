@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 💫 About Me:
 🔭 I'm currently working on AI/ML projects using TensorFlow, YOLO v8 and NLP<br>👥 I'm looking to collaborate on open-source AI/ML or full-stack web projects<br>🤝 I'm looking for help with deploying and scaling ML models to production<br>🌱 I'm currently learning DSA and system design to crack placements
 
